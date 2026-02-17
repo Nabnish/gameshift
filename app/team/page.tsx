@@ -208,7 +208,7 @@ export default function TeamRegisterPage() {
         <div>
           <p className="text-purple-200 text-xs tracking-[0.3em] uppercase font-pixel">Squad Ops</p>
           <h1 className="text-3xl md:text-4xl font-pixel text-white mt-2" style={{ textShadow: "4px 4px 0 #4c1d95" }}>
-            TEAM REGISTRATION
+            PARTY
           </h1>
         </div>
         <Link href="/" className="text-white/60 hover:text-white transition-colors">
